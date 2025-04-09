@@ -1,0 +1,2 @@
+# Ignore datasets. These can be obtained from the ISLP package itself or from the ISLP website (https://www.statlearning.com/resources-python)
+data/
